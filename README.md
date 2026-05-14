@@ -34,7 +34,7 @@ AI Email Assistant is a modern web application that helps users generate profess
 **Installation & Setup**
 -------------------------
 1. Clone the Repository
-    git clone https://github.com/your-username/AI-Email-Assistant.git
+    git clone https://github.com/tanvi-sudani/AI-Email-Assistant.git
    
 3. Open Project Folder
     cd AI-Email-Assistant
